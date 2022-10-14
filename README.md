@@ -20,11 +20,13 @@ The original script for the year 2018 ran in 0.484375 seconds. The refactored sc
 
 ### 2017 and 2018 Stock Performance Comparison
 There are 12 stocks that are analyzed in both the 2017 and 2018 data set. The 2017 stock dataset had 11 stocks with a positive return and one with a negative return. The 2018 stock dataset only had 2 positive returns. The other 10 stocks from the 2018 dataset had negative returns. The positive return percentages in 2017 were significantly higher than the positive returns in 2018. For example, the only two positive returns for the 2018 dataset were ENPH at 81.9% and RUN at 84.0%. The 2017 dataset had multiple returns above the 100% return mark like SEDG at a 184.5% return. 
+
 ![All Stocks![All Stocks 2018](https://user-images.githubusercontent.com/111299372/195909048-1c557f9f-c6f5-4d1f-bb42-4946855bac5a.png)
  2017](https://user-images.githubusercontent.com/111299372/195909008-6a005977-e1e6-4195-b6b2-642f3e0f1b8c.png)
 
 ### Stock Return Calculation
 In column C on the All Stocks Analysis worksheet we calculated the stock return. The general equation to calculate the return is: endingPrice / startingPrice - 1. The two arrays that were declared and used in the code are tickerStartingPrices and tickerEndingPrices. In VBA the line of code looked like: 
+
 ![code to calculate return](https://user-images.githubusercontent.com/111299372/195909073-7e2d3b7e-51de-4996-b8d7-1b5debbd35c4.png)
 
 
