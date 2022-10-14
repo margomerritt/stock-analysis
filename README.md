@@ -2,7 +2,6 @@
 
 
 ## Overview of Project
-
 ### Purpose
 The purpose of this project is to write code to analyze green energy stock projects that can then be reused to analyze any type of stock. The dataset used was an excel file containing the stock data. The data provided had the ticker, date, open, high, low, close, adj close and volume information. This dataset had two years worth of data for the years 2017 and 2018. The same 12 stocks were used in the 2017 and 2018 datasets. 
 
@@ -32,3 +31,8 @@ In column C on the All Stocks Analysis worksheet we calculated the stock return.
 
 
 ## Summary 
+### Advantages of Refactoring Code
+Refactoring is the process of editing existing code to make it run more efficient without changing its functionality. One of the biggest advantages of refactoring code is the ability to shorten the run time. In this project, refactoring the code shaved off around 40 seconds for each year. At first glance the 40 seconds shaved off might not sound a lot but it is a quite significant time savings when working with much larger datasets. A quick mathematical calculation reveals that in the 2017 dataset the refactored code reduced the time by 83.4535%! 
+
+
+### Disadvantages of Refactoring code
