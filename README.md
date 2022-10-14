@@ -10,10 +10,12 @@ The purpose of this project is to write code to analyze green energy stock proje
 ### Run Times
 #### 2017 Run Time
 The execution time for the original script for the 2017 stock data ran in 0.4960938 seconds. The refactored script ran in 0.08203125 seconds. Thus the refactored script had a much shorter execution time. 
+
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/111299372/195908973-7e2141ca-0252-4b00-a40c-5a386c36f8cd.png)
 
 #### 2018 Run Time
 The original script for the year 2018 ran in 0.484375 seconds. The refactored script ran at a much faster rate of 0.0859375 seconds. The refactored script shortened the run time by .3984375 seconds. 
+
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/111299372/195908991-a65c6877-8bed-4d73-abb4-e8a7e00f80aa.png)
 
 ### 2017 and 2018 Stock Performance Comparison
