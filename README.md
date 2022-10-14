@@ -22,6 +22,7 @@ There are 12 stocks that are analyzed in both the 2017 and 2018 data set. The 20
 
 ![All Stocks![All Stocks 2018](https://user-images.githubusercontent.com/111299372/195909048-1c557f9f-c6f5-4d1f-bb42-4946855bac5a.png)
  2017](https://user-images.githubusercontent.com/111299372/195909008-6a005977-e1e6-4195-b6b2-642f3e0f1b8c.png)
+![All Stocks 2018](https://user-images.githubusercontent.com/111299372/195917308-2f864acd-516e-4c35-b620-235e8ff44a13.png)
 
 ### Stock Return Calculation
 In column C on the All Stocks Analysis worksheet we calculated the stock return. The general equation to calculate the return is: endingPrice / startingPrice - 1. The two arrays that were declared and used in the code are tickerStartingPrices and tickerEndingPrices. In VBA the line of code looked like: 
