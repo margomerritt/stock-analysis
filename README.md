@@ -36,6 +36,6 @@ In column C on the All Stocks Analysis worksheet we calculated the stock return.
 Refactoring is the process of editing existing code to make it run more efficient without changing its functionality. One of the biggest advantages of refactoring code is the ability to shorten the run time. In this project, refactoring the code shaved off around 40 seconds for each year. At first glance the 40 seconds shaved off might not sound a lot but it is a quite significant time savings when working with much larger datasets. A quick mathematical calculation reveals that in the 2017 dataset the refactored code reduced the time by 83.4535%! 
 
 
-### Disadvantages of Refactoring code
+### Disadvantages of Refactoring Code
 While refactoring code offers a huge advantage of time savings running the code, it can potentially hold some disadvantages as well. Bugs and errors can easily be introduced into the code during the refactoring process. This can take time for a programmer to debug. If the project is on deadline, taking the time to refactor code might not be of use. Something else to keep in mind with refactoring is that the original code and the refactored code do the same thing. So taking the time to refactor code might be unnecessary to some, depending on the project type. In this particular project the time taken to refactor the project could be seen as a disadvantage because we only saved 40 seconds off the run time. However, in much bigger projects the time spent refactoring could become much more useful to the efficiency of the project.
 
