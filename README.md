@@ -3,7 +3,7 @@
 
 ## Overview of Project
 ### Purpose
-The purpose of this project is to write code to analyze green energy stock projects that can then be reused to analyze any type of stock. The dataset used was an excel file containing the stock data. The data provided had the ticker, date, open, high, low, close, adj close and volume information. This dataset had two years worth of data for the years 2017 and 2018. The same 12 stocks were used in the 2017 and 2018 datasets. 
+Project writes code to analyze green energy stock projects that can then be reused to analyze any type of stock. The dataset used was an excel file containing the stock data. The data provided had the ticker, date, open, high, low, close, adj close and volume information. This dataset had two years worth of data for the years 2017 and 2018. The same 12 stocks were used in the 2017 and 2018 datasets. 
 
 ## Results
 ### Run Times
